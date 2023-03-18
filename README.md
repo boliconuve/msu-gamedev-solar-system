@@ -1,6 +1,8 @@
 # msu-gamedev-solar-system
 A primitive model of the solar system made in Unity 3D. This project is not technicaly a game, this project showcase the basic workflow of making games and get familiar with Unity editor while building game development knowledge and skills.
 
+My main goal is to build knowledge understanding what and why i am doing what i am , learning the proccess and try understanding the terminology and game developments concepts.
+
 # Some of the concepts that i have learn:
   - Creating gameObjects
   - Understanding 3D Space, including vectors and transformations.
@@ -13,4 +15,4 @@ A primitive model of the solar system made in Unity 3D. This project is not tech
   - How to work with more than one camera.
   - How to build and test the game.
 
-My main goal is to build knowledge understanding what and why i am doing what i am , learning the proccess and try understanding the terminology and game developments concepts.
+
